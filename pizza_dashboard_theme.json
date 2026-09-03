@@ -1,0 +1,46 @@
+{
+  "name": "PizzaExecutiveDark",
+  "dataColors": [
+    "#2ECC71",
+    "#3B9EFF",
+    "#B980F0",
+    "#F2994A",
+    "#F5D547",
+    "#56CCF2",
+    "#EB5757",
+    "#6FCF97",
+    "#BB86FC",
+    "#FF8A65"
+  ],
+  "background": "#0E1117",
+  "backgroundLight": "#1B2033",
+  "backgroundDark": "#05070A",
+  "foreground": "#F5F6FA",
+  "foregroundLight": "#C7CAD9",
+  "foregroundDark": "#8A8FA3",
+  "tableAccent": "#3B9EFF",
+  "good": "#2ECC71",
+  "neutral": "#F2994A",
+  "bad": "#EB5757",
+  "maximum": "#2ECC71",
+  "center": "#F5D547",
+  "minimum": "#EB5757",
+  "null": "#4A4E63",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 32,
+      "color": "#F5F6FA"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 13,
+      "color": "#F5F6FA"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#8A8FA3"
+    }
+  }
+}
